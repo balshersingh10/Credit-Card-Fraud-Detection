@@ -5,8 +5,9 @@ We obtained the Credit Card Fraudulent Transaction dataset from Kaggle website a
 Feature selection is finding the subset of original features by different approaches based on the information they provide, accuracy, prediction errors.
 The features used in the project are Dimensionally reduces in given dataset using PCA:
 - V1 
-- V2 
+- V2 <br />
 ...
+<br />
 - V28
 ## B. Model Selection
 * Local Outlier Factor
@@ -17,8 +18,8 @@ The data taken is from **https://www.kaggle.com/mlg-ulb/creditcardfraud**
 - 0 if Non-fraudulent Transaction
 - 1 if Fraudulent Transaction
 # Result =>
-* Local Outlier Factor has accuracy of nearly 98.1%
-* Isolation Forest has accuracy of nearly 98.3%
+- Local Outlier Factor has accuracy of nearly 98.1%
+- Isolation Forest has accuracy of nearly 98.3%
 But, accuracy is not a correct measure here because the amount of Fraudulent Transactions are very less in the dataset. So, even if we mark all transactions tobe non-fraudulent, algorithms will have high accuracy.
 Recall for isolation forest algorithm is much higher than for local outlier factor.
 Precision for isolation forest algorithm is also higher than for local outlier factor but its really low if taken individually. 
