@@ -7,7 +7,6 @@ The features used in the project are Dimensionally reduces in given dataset usin
 - V1 
 - V2 <br />
 ...
-<br />
 - V28
 ## B. Model Selection
 * Local Outlier Factor
