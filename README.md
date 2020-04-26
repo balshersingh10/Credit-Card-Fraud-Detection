@@ -19,6 +19,7 @@ The data taken is from **https://www.kaggle.com/mlg-ulb/creditcardfraud**
 # Result =>
 - Local Outlier Factor has accuracy of nearly 98.1%
 - Isolation Forest has accuracy of nearly 98.3%
+<br />
 But, accuracy is not a correct measure here because the amount of Fraudulent Transactions are very less in the dataset. So, even if we mark all transactions tobe non-fraudulent, algorithms will have high accuracy.
 Recall for isolation forest algorithm is much higher than for local outlier factor.
 Precision for isolation forest algorithm is also higher than for local outlier factor but its really low if taken individually. 
