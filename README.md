@@ -1,4 +1,4 @@
-![Credit Card Fraud Detection]()
+![Credit Card Fraud Detection](https://cdn.dnaindia.com/sites/default/files/styles/full/public/2018/01/29/646027-cardfrauds-012918.jpg)
 # Prediction of Credit Card Fraudulent Transaction Using Supervised Machine Learning Techniques
 We obtained the Credit Card Fraudulent Transaction dataset from Kaggle website and used Jupyter Notebook as the platform for the purpose of coding. Our methodology involves use of Outlier finding techniques like Local Outlier Factor and Isolation Forest Algorithm.
 ## A. Feature Selection
@@ -27,5 +27,5 @@ Precision for isolation forest algorithm is also higher than for local outlier f
 - **source.ipynb(Jupyter Notebook-https://jupyter.org/)**
 - **source.pdf(Just a pdf print of jupyter notebook)**
 <br />
-
+<br />
 ***In source.ipynb, data is visualized using Histograms and Heat Plots Using Correlation Matrices.***
